@@ -2,6 +2,15 @@
 
 로봇 비전 AI를 기초부터 공부하기 위한 주간 논문 노트 저장소입니다.
 
+## 주요 대상 학회
+
+이 저장소는 로봇 비전 분야의 대표 국제학회인 다음 두 학회의 논문을 중심으로 정리합니다.
+
+- **IEEE International Conference on Robotics and Automation (ICRA)**
+- **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**
+
+ICRA·IROS에 발표된 논문 가운데 로봇 비전의 기초를 이해하는 데 도움이 되거나, 3D 비전, 객체·자세 인식, SLAM, 로봇 조작, 모방학습, Vision-Language-Action 분야의 흐름을 보여주는 연구를 우선 선정합니다. 필요한 경우 핵심 개념을 세운 고전 논문과 밀접하게 연결된 다른 학회의 연구도 함께 다룹니다.
+
 매주 월요일에 다음 내용을 담은 Markdown 노트가 `papers/YYYY/MM/` 아래에 추가됩니다.
 
 - 이번 주 주제와 논문 선정 이유
