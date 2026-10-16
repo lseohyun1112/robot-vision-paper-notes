@@ -1,0 +1,22 @@
+# Local system files
+.DS_Store
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Do not redistribute paper files or copied figures
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.tif
+*.tiff
+assets/raw/
